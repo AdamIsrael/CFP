@@ -17,7 +17,7 @@ Generic VNF configuration and management
 
 ## Abstract
 
-The telecommunication industry is in a state of disruption as network functions (DNS, firewall, routers, etc) are virtualized. The days of running these workloads on proprietary hardware are ending. These virtualized network functions (VNFs) can run on bare metal, commodity hardware, and in the public cloud. 
+The telecommunication industry is in a state of disruption as network functions (DNS, firewall, routers, etc) are virtualized. The days of running these workloads on proprietary hardware are ending. In this session, I will show you how these VNFs are created, and how to manage the complex configurations between them.
 
 ## Related links & additional information
 
