@@ -1,4 +1,4 @@
-# Generic VNF configuration management
+# Generic VNF configuration management and orchestration
 
 ## Speaker name
 
@@ -6,11 +6,11 @@ Adam Israel
 
 ## Speaker Email
 
-adam.israel@canonical.com
+adam@adamisrael.com
 
 ## session Title
 
-Generic VNF configuration management
+Generic VNF configuration management and orchestration
 
 ## Speaker Bio
 
@@ -24,9 +24,8 @@ In this session, I will show you how these VNFs are created, how to manage the c
 
 ## Related links & additional information
 
-openmano
-opennfv
-
+https://osm.etsi.org/
+https://www.opnfv.org/
 
 ## tags
 - juju
