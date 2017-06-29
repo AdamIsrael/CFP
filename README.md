@@ -1,5 +1,4 @@
-# CFP - Calls for Proposal
+# Talks
 
-This repository contains the submissions I've made in response to a *Call for Proposal (CFP)*.
+This repository contains the proposals, abstracts, and talks I've written or presented.
 
-## Who am I?
